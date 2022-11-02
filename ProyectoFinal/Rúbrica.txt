@@ -1,0 +1,21 @@
+=Rúbrica=
+-La página deberá de ser lo más parecida al modelo dado.
+-Deberá de cuidar detalles de la etiqueta <HEAD> incluyendo cosas como el FavIcon y el título de la página.
+-HTML limpio y bien estructurado (https://validator.w3.org/#validate_by_input).
+-CSS limpio y bien estreucturado (https://jigsaw.w3.org/css-validator/#validate_by_input).
+-Menú desplegable.
+-Cambio del puntero al interacruar con la página.
+-Crear repositorio con GIT para guardar el proyecto.
+
+=Formato de Entrega=
+-Se entregará el link del repositorio y de la página.
+-Solo se entregarán resultados a quien haya dado sus horas de servicio.
+-Deberá de entregarse el proyecto el día Miércoles 2 de Noviembre antes de las 12pm (hora Perú).
+
+
+=Referencias de HTML y CSS=
+HTML - https://htmlreference.io/
+CSS - https://cssreference.io/
+
+=Al finalizar=
+-Empaparse de temas relacionados con "Responsive".
